@@ -1,3 +1,3 @@
-module github.com/hello-bytes/blackfriday
+module github.com/hello-bytes/tbsblackfriday
 
 go 1.13
